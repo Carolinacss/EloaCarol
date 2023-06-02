@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="num">Digite um número</string>
+    <string name="num1">Digite outro número</string>
+    <string name="adi">Adição</string>
+    <string name="div1">Divisão</string>
+    <string name="sub">Subtração</string>
+    <string name="multi">Multiplicação</string>
+    <string name="resultado">Resultado:</string>
+</resources>
